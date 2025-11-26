@@ -5,31 +5,41 @@ import { Button } from '@/components/ui/button'
 const galleryImages = [
   {
     id: 1,
-    src: '/images/gallery1.jpg',
+    src: '/images/gallery2.jpg',
     alt: 'A',
   },
   {
     id: 2,
-    src: '/images/gallery2.jpg',
-    alt: 'B',
+    src: '/images/pic1.jpeg',
+    alt: 'A',
   },
   {
     id: 3,
+    src: '/images/pic2.jpeg',
+    alt: 'A',
+  },
+  {
+    id: 4,
+    src: '/images/pic3.jpeg',
+    alt: 'B',
+  },
+  {
+    id: 5,
     src: '/images/gallery3.jpg',
     alt: 'C',
   },
   {
-    id: 4,
-    src: '/images/gallery4.jpg',
+    id: 6,
+    src: '/images/pic4.jpeg',
     alt: 'D',
   },
   {
-    id: 5,
-    src: '/images/gallery5.jpg',
+    id: 7,
+    src: '/images/pic5.jpeg',
     alt: 'E',
   },
   {
-    id: 6,
+    id: 8,
     src: '/images/gallery6.jpg',
     alt: 'F',
   },
