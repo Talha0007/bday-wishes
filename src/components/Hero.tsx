@@ -29,8 +29,7 @@ export function Hero() {
 
         <div className="fade-in-up" style={{ animationDelay: '0.6s' }}>
           <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-            Today we celebrate you and all the joy you bring into our lives. 
-            Here's to another year of adventures, laughter, and beautiful memories! 
+            Happy birthday to you Amna ❤️🥮🎂🪷May Allah give you many blessings in your life always no doubt you are a wonderful person and no one can compete you no one can take your place no one can become what you are plz reduce your anger little bit in sha allah you will open your flowers shop one day and buy your dream car may Allah pak grant you long life with health and happiness Also Tbh aj Ai use nai kia🤣🤣bcz today is a very important day so i want to express my words ab khtm ho gai english 😇thats my pure felling about you
           </p>
         </div>
       </div>
